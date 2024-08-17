@@ -1,3 +1,10 @@
+#Akashavani
+[Weather App](https://earnest-tiramisu-c1119c.netlify.app/)
+===========================================================
+
+[](https://github.com/m-manish03/Weather-App?tab=readme-ov-file#-weather-app)
+
+This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
 Live Demo
 ---------
 
