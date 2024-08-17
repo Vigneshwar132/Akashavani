@@ -1,4 +1,5 @@
-# Akashavani
+[Akashavani](https://effulgent-semolina-ecc30a.netlify.app/)
+===========================================================
 
 This project is a weather application built using React and Vite. It leverages modern tools to provide a fast, interactive user experience with hot module replacement (HMR) and follows best practices for code quality with ESLint.
 Live Demo
