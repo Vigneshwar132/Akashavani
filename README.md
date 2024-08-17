@@ -1,18 +1,4 @@
-# Project Name
-
-![License](https://img.shields.io/github/license/username/repository)
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/build.yml)
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Prerequisites](#prerequisites)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+# Akashavani
 
 ## Introduction
 
@@ -32,8 +18,6 @@ Before you begin, ensure you have met the following requirements:
 - **Software/Tools**:
   - **Node.js**: Version X.X.X or higher. [Download Node.js](https://nodejs.org/)
   - **Python**: Version 3.X.X or higher. [Download Python](https://www.python.org/downloads/)
-  - **Docker** (Optional): If your project uses Docker, specify the required version. [Download Docker](https://www.docker.com/)
-  - **Git**: Version X.X.X or higher. [Download Git](https://git-scm.com/)
 - **Accounts**:
   - **GitHub**: Ensure you have a GitHub account to clone the repository.
   - **Third-Party APIs** (if applicable): Mention any API keys or accounts needed, e.g., Google Cloud, AWS.
@@ -118,6 +102,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Your Name** - [Your Email](mailto:your.email@example.com)
+- **Your Name** - [Your Email](vigneshsiri1303@gmail.com)
 - **GitHub**: [https://github.com/username](https://github.com/username)
-- **Twitter**: [https://twitter.com/yourhandle](https://twitter.com/yourhandle)
