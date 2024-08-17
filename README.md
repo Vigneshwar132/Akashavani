@@ -6,7 +6,7 @@ Check out the live demo of this project on Netlify:
 
 Netlify
 
-Or visit the site directly: Weather-App.netlify.app
+Or visit the site directly: https://effulgent-semolina-ecc30a.netlify.app/
 
 Features
 React: A popular JavaScript library for building user interfaces.
